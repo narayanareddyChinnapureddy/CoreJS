@@ -2,4 +2,4 @@
 
 view this from below
 
-https://narayanareddychinnapureddy.github.io/Registration_Regex/
+https://narayanareddychinnapureddy.github.io/CoreJS/
