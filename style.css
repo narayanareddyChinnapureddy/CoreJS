@@ -1,33 +1,45 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 a {
-    text-decoration: none;
+	text-decoration: none;
 }
 
 li {
-    list-style-type: none;
+	list-style-type: none;
+}
+
+body {
+	background: #ccc;
+}
+
+.container {
+	padding: 20px;
+	margin: 0 auto;
 }
 
 /* heading */
 h1 {
-    color: green;
-    margin: 20px 0;
+	color: green;
+	margin: 20px 0;
 }
 
 .tasks {
-    margin-left: 50px;
+	margin-left: 50px;
 }
 
 .tasks li {
-    margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .tasks li a {
-    font-size: 20px;
-    color: #000;
+	font-size: 20px;
+	color: #000;
+}
 
+.tasks li a:hover {
+	color: darkmagenta;
 }
